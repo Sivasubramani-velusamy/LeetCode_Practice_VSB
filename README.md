@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0070-climbing-stairs) |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0069-sqrtx) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
