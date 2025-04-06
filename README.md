@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
+| [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 ## Matrix
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
