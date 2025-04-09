@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0932-monotonic-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
@@ -77,14 +79,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
