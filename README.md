@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
+| [0119-pascals-triangle-ii](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0119-pascals-triangle-ii) |
 ## Memoization
 |  |
 | ------- |
