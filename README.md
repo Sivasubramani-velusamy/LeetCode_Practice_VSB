@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
 | [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0932-monotonic-array) |
+| [0978-valid-mountain-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
