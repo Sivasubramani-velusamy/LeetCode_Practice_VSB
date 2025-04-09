@@ -13,8 +13,8 @@ class Solution {
         }
         if (k == 0 || k == arr.length - 1)
             return false;
-        System.out.println(k);
-        System.out.println(maxVal);
+        // System.out.println(k);
+        // System.out.println(maxVal);
         for (int i = 0; i < k; i++) {
             if (arr[i] >= arr[i + 1]) {
                 return false;
@@ -28,4 +28,6 @@ class Solution {
 
         return true;
     }
+
+    
 }
