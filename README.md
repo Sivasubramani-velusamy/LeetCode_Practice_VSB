@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0978-valid-mountain-array) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 ## String
 |  |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
@@ -72,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
 ## Counting
 |  |
