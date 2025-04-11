@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0119-pascals-triangle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 ## String
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
