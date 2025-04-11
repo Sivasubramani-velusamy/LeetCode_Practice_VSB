@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
