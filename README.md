@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0344-reverse-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
