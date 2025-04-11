@@ -10,5 +10,7 @@ class Solution {
         StringBuilder SS = new StringBuilder(S);
         SS = SS.reverse();
         return SS.toString().equals(S.toString());
+        //return SS.equals(S);
+        
     }
 }
