@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
+| [2998-count-symmetric-integers](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/2998-count-symmetric-integers) |
 ## Array
 |  |
 | ------- |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
