@@ -1,13 +1,17 @@
 class Solution {
-    public int hammingWeight(int n) {
-        int ones = 0;
+    // public int hammingWeight(int n) {
+    //     int ones = 0;
 
-        while( n!= 0){
-            n= n&n-1;
-            ones++;
-        }
-        return ones;
+    //     while( n!= 0){
+    //         n= n&n-1;
+    //         ones++;
+    //     }
+    //     return ones;
+    // }
+    public int hammingWeight(int n) {
+        return Integer.bitCount(n);
     }
+
 
 //     public int hammingWeight(int n) {
 //     String binary = Integer.toBinaryString(n);
