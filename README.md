@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1965-sum-of-digits-in-base-k) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/2998-count-symmetric-integers) |
 ## Array
 |  |
