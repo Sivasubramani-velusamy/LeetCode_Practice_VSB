@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
