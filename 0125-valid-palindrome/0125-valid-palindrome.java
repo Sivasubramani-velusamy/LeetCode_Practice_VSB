@@ -7,7 +7,6 @@ class Solution {
                 S.append(Character.toLowerCase(c));
             }
         }
-              
         StringBuilder SS = new StringBuilder(S);
         SS = SS.reverse();
         return SS.toString().equals(S.toString());
