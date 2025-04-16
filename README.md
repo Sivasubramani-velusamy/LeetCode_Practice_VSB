@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0067-add-binary) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
