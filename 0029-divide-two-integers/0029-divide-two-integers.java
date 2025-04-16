@@ -15,6 +15,8 @@ class Solution {
         
         long dividendL = Math.abs((long) dividend);
         long divisorL = Math.abs((long) divisor);
+        // int dividendL = Math.abs((int) dividend);
+        // int divisorL = Math.abs((int) divisor);
 
         int quotient = 0;
         
