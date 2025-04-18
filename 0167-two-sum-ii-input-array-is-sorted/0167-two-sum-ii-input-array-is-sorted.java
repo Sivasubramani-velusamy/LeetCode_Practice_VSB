@@ -14,10 +14,7 @@ class Solution {
         // } // tle issus for last test case;
          while( i<j){
             if( nums[i]+ nums[j] == target) {
-                // res[0] = i+1;
-                // res[1] = j+1;
-                // break;
-                // alter 
+               
                 return new int []{i+1,j+1};
             }
             else if(nums[i]+ nums[j] > target){
