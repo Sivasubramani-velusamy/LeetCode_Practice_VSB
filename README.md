@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0932-monotonic-array) |
 | [0978-valid-mountain-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0978-valid-mountain-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0414-third-maximum-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
 ## Counting
