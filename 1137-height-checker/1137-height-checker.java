@@ -1,6 +1,6 @@
 class Solution {
     public int heightChecker(int[] heights) {
-        int[] d = Arrays.copyOf(heights, heights.length);
+        int[] d = heights.clone();
         Arrays.sort(d);
         int count =0;
         // System.out.println(Arrays.toString(heights));
