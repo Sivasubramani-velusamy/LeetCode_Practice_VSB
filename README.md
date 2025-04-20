@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0978-valid-mountain-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1137-height-checker) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0414-third-maximum-number) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1137-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/2998-count-symmetric-integers) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
