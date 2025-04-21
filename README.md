@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0268-missing-number) |
+| [1448-maximum-69-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1448-maximum-69-number) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1965-sum-of-digits-in-base-k) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/2998-count-symmetric-integers) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1448-maximum-69-number](https://github.com/Sivasubramani-velusamy/LeetCode_Practice_VSB/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
